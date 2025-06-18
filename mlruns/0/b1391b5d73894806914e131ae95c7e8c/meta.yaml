@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/MLOPS_FINAL/mlruns/0/b1391b5d73894806914e131ae95c7e8c/artifacts
+end_time: 1750168477137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1391b5d73894806914e131ae95c7e8c
+run_name: enthused-bat-542
+run_uuid: b1391b5d73894806914e131ae95c7e8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750168402578
+status: 4
+tags: []
+user_id: abhis

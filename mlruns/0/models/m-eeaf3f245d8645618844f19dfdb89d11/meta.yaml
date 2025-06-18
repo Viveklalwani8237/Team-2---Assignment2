@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/abhis/MLOPS_FINAL/mlruns/0/models/m-eeaf3f245d8645618844f19dfdb89d11/artifacts
+creation_timestamp: 1750179405050
+experiment_id: '0'
+last_updated_timestamp: 1750179418383
+model_id: m-eeaf3f245d8645618844f19dfdb89d11
+model_type: null
+name: rf_model
+source_run_id: 681bcc7b1611405db9134ef140dba3f3
+status: 2
+status_message: null

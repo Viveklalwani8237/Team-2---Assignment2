@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhis/MLOPS_FINAL/mlruns/0/b93c401063cf4151b657abff3f297c65/artifacts
+end_time: 1750181447196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b93c401063cf4151b657abff3f297c65
+run_name: clean-moth-70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750181172351
+status: 3
+tags: []
+user_id: abhis

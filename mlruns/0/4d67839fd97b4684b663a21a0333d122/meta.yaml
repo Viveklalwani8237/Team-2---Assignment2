@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/MLOPS_FINAL/mlruns/0/4d67839fd97b4684b663a21a0333d122/artifacts
+end_time: 1750168743854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d67839fd97b4684b663a21a0333d122
+run_name: unequaled-fox-221
+run_uuid: 4d67839fd97b4684b663a21a0333d122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750168629644
+status: 3
+tags: []
+user_id: abhis
