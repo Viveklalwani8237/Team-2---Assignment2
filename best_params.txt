@@ -1,0 +1,7 @@
+RandomForestClassifier with GridSearchCV
+max_depth=None
+min_samples_split=2
+n_estimators=100
+accuracy=0.9300448430493273
+f1_score=0.6486486486486487
+roc_auc=0.776043186460461
