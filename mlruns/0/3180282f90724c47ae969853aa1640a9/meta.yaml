@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/abhis/Mlops_final_repo/Team-2---Assignment2/mlruns/0/3180282f90724c47ae969853aa1640a9/artifacts
+end_time: 1750252409724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3180282f90724c47ae969853aa1640a9
+run_name: thundering-gnat-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750252159901
+status: 3
+tags: []
+user_id: abhis
