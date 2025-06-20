@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/10488181e95a40c59631452f644013c0/artifacts
+end_time: 1750421382106
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10488181e95a40c59631452f644013c0
+run_name: zealous-penguin-126
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421348608
+status: 3
+tags: []
+user_id: Jayesh
