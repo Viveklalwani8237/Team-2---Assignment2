@@ -1,0 +1,1 @@
+{'tfidf_vectorizer__max_features': [7000, 10000, 15000], 'logistic_classifier__C': [0.5, 1.0, 5.0]}
