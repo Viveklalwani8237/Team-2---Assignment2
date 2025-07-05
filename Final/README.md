@@ -1,3 +1,11 @@
+NOTE: TO RUN ON LOCAL, PLEASE SPECIFY PORT  
+COMMAND TO RUN:  'docker run -p 5000:5000 mt24aai032/mlops:FlaskApp'
+
+
+
+
+
+
 # Spam Classifier Flask App (MLOps Deployment)
 
 A Flask-based REST API that classifies SMS text as 'spam' or 'not spam' using Logistic Regression. Includes Dockerization and optional hyperparameter tuning via `GridSearchCV`.
