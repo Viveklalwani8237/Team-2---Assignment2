@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/DESKTOP-9NEE77/Desktop/ML%20FLOW/Team-2---Assignment2/mlruns/0/ff50c79c73214017adbd39d2e1c09d27/artifacts
+end_time: 1751718786870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff50c79c73214017adbd39d2e1c09d27
+run_name: kindly-smelt-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751718770316
+status: 3
+tags: []
+user_id: DESKTOP-9NEE77

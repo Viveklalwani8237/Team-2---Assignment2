@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/DESKTOP-9NEE77/Desktop/ML%20FLOW/Team-2---Assignment2/mlruns/0/models/m-334fe7f502a04b6b8188db8203e2b326/artifacts
+creation_timestamp: 1751718281084
+experiment_id: '0'
+last_updated_timestamp: 1751718293653
+model_id: m-334fe7f502a04b6b8188db8203e2b326
+model_type: null
+name: model
+source_run_id: 9b895fe701004603bbefc9b9fb3c9a5a
+status: 2
+status_message: null

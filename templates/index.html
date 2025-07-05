@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spam Detector</title>
+  <style>
+    body {
+      background: beige;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      color: red;
+      text-align: center;
+      padding: 100px;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 30px;
+    }
+
+    form {
+      background-color: rgba(255, 255, 255, 0.1);
+      padding: 20px;
+      border-radius: 12px;
+      display: inline-block;
+    }
+
+    textarea {
+      width: 300px;
+      height: 100px;
+      font-size: 16px;
+      border-radius: 6px;
+      padding: 10px;
+      margin-bottom: 10px;
+      resize: vertical;
+    }
+
+    input[type="submit"] {
+      background-color: #27ae60;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    .result {
+      margin-top: 20px;
+      font-size: 2.2em;
+      color: darkblue;
+    }
+  </style>
+</head>
+<body>
+  <h1>Team 2 Assignment 2</h1>
+  <h1>📩 Spam Detection Web App</h1>
+
+  <form method="POST" action="/RG_spam_Detection">
+    <textarea name="message" placeholder="Enter email or SMS text here..." required></textarea><br>
+    <input type="submit" value="Check Spam">
+  </form>
+
+  {% if result %}
+    <div class="result">
+      <p><strong>Prediction:</strong> {{ result }}</p>
+    </div>
+  {% endif %}
+
+</body>
+</html>

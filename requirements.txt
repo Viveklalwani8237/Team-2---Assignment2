@@ -3,4 +3,5 @@ uvicorn
 scikit-learn
 pandas
 mlflow
+numpy
 python-multipart
