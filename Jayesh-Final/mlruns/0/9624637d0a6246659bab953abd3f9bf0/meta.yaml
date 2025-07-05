@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9624637d0a6246659bab953abd3f9bf0/artifacts
+end_time: 1750421784310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9624637d0a6246659bab953abd3f9bf0
+run_name: rare-hare-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421763399
+status: 4
+tags: []
+user_id: Jayesh
