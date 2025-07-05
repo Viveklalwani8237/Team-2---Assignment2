@@ -1,5 +1,7 @@
-flask
+fastapi
+uvicorn
 scikit-learn
-numpy
 pandas
-
+mlflow
+numpy
+python-multipart

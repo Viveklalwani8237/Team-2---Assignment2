@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/abhis/Mlops_final_repo/Team-2---Assignment2/mlruns/0/c1792507e1c447b4bb8c0e484b8bbf8a/artifacts
+end_time: 1750250921761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1792507e1c447b4bb8c0e484b8bbf8a
+run_name: big-kit-255
+run_uuid: c1792507e1c447b4bb8c0e484b8bbf8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750250781489
+status: 3
+tags: []
+user_id: abhis

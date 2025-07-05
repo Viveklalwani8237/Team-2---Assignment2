@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a69ee78907114d7d9658b0e12b99e436/artifacts
+end_time: 1750421834548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a69ee78907114d7d9658b0e12b99e436
+run_name: unique-elk-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750421819672
+status: 3
+tags: []
+user_id: Jayesh
