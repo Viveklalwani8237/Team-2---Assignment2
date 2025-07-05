@@ -1,0 +1,32 @@
+artifact_path: file:///C:/Users/DESKTOP-9NEE77/Desktop/ML%20FLOW/Team-2---Assignment2/mlruns/0/models/m-5ffd529ee4934e36958d664e20dce0e5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-5ffd529ee4934e36958d664e20dce0e5
+model_size_bytes: 943
+model_uuid: m-5ffd529ee4934e36958d664e20dce0e5
+prompts: null
+run_id: ff50c79c73214017adbd39d2e1c09d27
+signature:
+  inputs: '[{"type": "long", "name": "email_len", "required": true}, {"type": "long",
+    "name": "num_uppercase_words", "required": true}, {"type": "long", "name": "num_exclamations",
+    "required": true}, {"type": "long", "name": "num_links", "required": true}, {"type":
+    "long", "name": "has_html", "required": true}, {"type": "long", "name": "Word_presence",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-05 12:32:50.958175'

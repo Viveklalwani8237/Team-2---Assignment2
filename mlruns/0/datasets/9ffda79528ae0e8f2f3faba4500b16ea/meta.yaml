@@ -1,0 +1,11 @@
+digest: 360e19ab
+name: dataset
+profile: '{"num_rows": 1, "num_elements": 6}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "email_len", "required": true},
+  {"type": "long", "name": "num_uppercase_words", "required": true}, {"type": "long",
+  "name": "num_exclamations", "required": true}, {"type": "long", "name": "num_links",
+  "required": true}, {"type": "long", "name": "has_html", "required": true}, {"type":
+  "long", "name": "Word_presence", "required": true}]}'
+source: '{"tags": {"mlflow.user": "DESKTOP-9NEE77", "mlflow.source.name": "C:\\Users\\DESKTOP-9NEE77\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
